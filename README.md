@@ -27,15 +27,14 @@ omarchy-theme-install https://github.com/ankur311sudo/gruvu.git
 ## Waybar Configuration
 
 For the below waybar just copy the config.jsonc and style.css file present int the gruvublock directory and enjoy the gruvu waybar !
+
 <img width="2240" height="52" alt="screenshot-2026-01-02_15-00-03" src="https://github.com/user-attachments/assets/412258f5-c5de-4b22-a0b3-e6bb041ec340" />
 
-<img width="2240" height="56" alt="screenshot-2025-12-25_23-37-58" src="https://github.com/user-attachments/assets/64ce86e5-2b93-41d3-851d-75358e2a69e4" />
-
-See `new_waybar` for waybar.
+See `gruvublock` for waybar.
 
 For this waybay check out the mocha directory !
 
-<img width="2238" height="87" alt="screenshot-2025-12-25_23-43-14" src="https://github.com/user-attachments/assets/3cb38ddb-3135-4aad-98eb-014961769863" />
+<img width="2240" height="59" alt="image" src="https://github.com/user-attachments/assets/1e323305-bc6a-4f4a-8fec-9302e3ccdb8a" />
 
-See `mocha` for waybar. 
+See `gruvbox` for waybar. 
 
